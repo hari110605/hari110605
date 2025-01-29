@@ -21,6 +21,6 @@ A passionate developer!
 
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari110605&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hari2005?ext=contest&theme=dark)](https://leetcode.com/u/hb9071/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/hb9071?theme=dark&font=Marmelad&ext=activity)
 
-[![Hari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hari110605&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hari110605&bg_color=050003&color=9e4c98&line=198a1b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

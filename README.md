@@ -5,7 +5,7 @@
 
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0C71F5&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Hari;Passionate+Developer;Tech+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0C71F5&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Hari;Passionate+Developer;Tech+Enthusiast;Problem+Solver;Creative+thinker" />
 </h1>
 
 <!-- Profile Views & Followers -->
@@ -17,17 +17,17 @@
 </div>
 
 <!-- Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Hari"
-        self.role = "Passionate Developer"
-        self.language_spoken = ["en_US", "de_DE"]
-        self.code = ["Python", "C", "C++", "JavaScript"]
+        self.name = "Hariprasath B"
+        self.role = "Full Stack Developer"
+        self.language_spoken = ["hi_IN", "en_US"]
+        self.code = ["Python", "Java", "C++", "JavaScript"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something great together.")
@@ -35,29 +35,47 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
+## ⚡ Core Skills
 
-## 🔗 Connect with Me
+```javascript
+const skills = {
+    frontend: ["HTML5", "CSS3", "JavaScript"],
+    backend: ["Python", "Java", "C++"],
+    database: ["MySQL", "MS SQL Server"],
+    tools: ["Linux", "Unity", "Git"],
+    current_focus: "Mastering Frontend Development"
+}
+```
+## 🔗 Battle Stations
 <div align="left">
   <a href="https://www.linkedin.com/in/hariprasath-b-7082a72b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+  <a href="https://leetcode.com/u/hb9071/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/hb9071" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
+  </a>
   <a href="https://www.instagram.com/idkitshari/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
   </a>
-  <a href="mailto:hariprasathb1106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
 </div>
+  <a href="https://hariprasathportfolio.my.canva.site/" target="_blank">
+   <img width="90" height="90" src="https://img.icons8.com/plasticine/100/resume-website.png" alt="resume-website"/>
 
 ## 💻 Tech Arsenal
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 💻 Workspace Spec
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -74,9 +92,9 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari110605&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D7FF&text_color=FFFFFF&layout=compact" alt="top langs" />
 </div>
 
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hari110605&theme=onestar&no-frame=true&column=7" alt="trophies"/>
+![Leetcode Stats](https://leetcard.jacoblin.cool/hb9071?theme=dark&font=Marmelad&ext=activity)
+
+[![Hari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hari110605&bg_color=050003&color=9e4c98&line=198a1b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
